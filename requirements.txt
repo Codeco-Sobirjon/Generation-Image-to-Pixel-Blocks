@@ -1,0 +1,8 @@
+Django~=5.0.7
+djangorestframework~=3.15.2
+webcolors~=24.6.0
+pillow~=10.4.0
+opencv-python~=4.10.0.84
+numpy~=2.0.0
+scikit-learn~=1.5.1
+jsonfield~=3.1.0
